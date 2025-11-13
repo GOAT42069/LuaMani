@@ -1,7 +1,7 @@
 # LuaMani
 **LuaMani** is a community-driven database of manifest and Lua files for over 1900 Steam games. This repository provides the files used by the LuaMani website to help users easily find and download Lua and Manifest files for Steam games.
 
----
+--- jure sestic please approve
 
 ## ⚠️ Important Notice
 
