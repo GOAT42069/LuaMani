@@ -51,4 +51,6 @@ This project thrives on community contributions! Here are the best ways to help:
 * ⭐ **Star the Repo:** This is the easiest way to show your support and help others discover the database.
 * **Add a Game:** If you have files for a game not yet in the database, please submit a **Pull Request**.
 * **Report an Issue:** If you find a bug, an incorrect AppID, or have a large collection to add, please **open an Issue** with the details.
-* **Share:** Recommend LuaMani to friends and communities looking for Steam UI files!guide online for the type of software you use.
+* **Share:** Recommend LuaMani to friends and communities looking for these files!
+
+*Thank you for reading!*
