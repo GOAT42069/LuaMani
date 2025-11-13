@@ -1,5 +1,5 @@
 # LuaMani
-**LuaMani** is a list of games for SteamTools and GreenLuma(modified) with ~2000 games. Almost every game is marked with its app ID. It is used for the [LuaMani](luamani.vercel.app) website and is available for everybody to use and modify. 
+**LuaMani** is a list of games for Steam with ~2000 games. Almost every game is marked with its app ID. It is used for the LuaMani website and is available for everybody to use and modify. 
 
 ---
 
@@ -14,7 +14,7 @@
 
   1. **LuaMani** injection tool (comming soon)
 
-  2. **SteamTools**The most popular tool to inject and compile these game files into **Steam** is [SteamTools](steamtools.net), there are concerns about it being unsafe so use it carefully or look into alternative   injection tools.
+  2. **SteamTools**The most popular tool to inject and compile these game files into **Steam** is SteamTools at (steamtools.net), there are concerns about it being unsafe so use it carefully or look into alternative   injection tools.
      
   3. **GreenLuma**
 
