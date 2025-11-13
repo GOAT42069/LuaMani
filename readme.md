@@ -1,5 +1,5 @@
-# LuaManiDB
-**LuaManiDB** is a list of games for SteamTools and GreenLuma(modified) with ~2000 games. Almost every game is marked with its app ID. It is used for the [LuaMani](luamani.vercel.app) website and is available for everybody to use and modify. 
+# LuaMani
+**LuaMani** is a list of games for SteamTools and GreenLuma(modified) with ~2000 games. Almost every game is marked with its app ID. It is used for the [LuaMani](luamani.vercel.app) website and is available for everybody to use and modify. 
 
 # SteamTools
 
@@ -11,7 +11,7 @@ Some people online have claimed that they were able to modify GreenLuma to injec
 
 # How to contribute
 
-If you see a game that is not available in **LuaManiDB** and you have the files consider contributing by making a pull request. If you found a huge collection of games not found in **LuaManiDB** add an issue with the solution. Another way to contribute is just by starring the database and recommending it to people trying to easily find Lua and Manifest files.
+If you see a game that is not available in **LuaMani** and you have the files consider contributing by making a pull request. If you found a huge collection of games not found in **LuaMani** add an issue with the solution. Another way to contribute is just by starring the database and recommending it to people trying to easily find Lua and Manifest files.
 
 # How to use
 
