@@ -1,5 +1,5 @@
 # LuaMani
-**LuaMani** is a community-driven database of manifest and Lua files for over 1900 Steam games. This repository provides the files used by the LuaMani website to help users easily find and download UI enhancements for their Steam library.
+**LuaMani** is a community-driven database of manifest and Lua files for over 1900 Steam games. This repository provides the files used by the LuaMani website to help users easily find and download Lua and Manifest files for Steam games.
 
 ---
 
@@ -16,23 +16,24 @@ This database contains **1992 compressed files** split across `folder1` and `fol
 
 To use these files, you need a tool to inject them into your Steam client. Here are some of the known methods:
 
-1.  **LuaMani Injector** (Coming)
-    * Our own official, user-friendly tool is currently in development.
-
-2.  **SteamTools**
+1.  **SteamTools**
     * **Website:** `steamtools.net`
     * This is a popular and widely-used tool for injecting and compiling these types of files.
     * **Note:** Some users in the community have raised security concerns. Please do your own research before using it.
 
-3.  **GreenLuma**
+2.  **GreenLuma**
     * Some advanced users have reported success in modifying GreenLuma to inject these files, which may bypass the concerns associated with other tools.
     * This is an unofficial method and may require significant technical knowledge to implement.
+
+3. **Other Custom or Unknown Alternatives**
+
+*Make sure you find and read documentation of the tools you use carefully. This readme simplifies everything*
 
 ---
 
 ## How to Use
 
-The general process (for SteamTools and LuaMani Injector) is simple, though it varies slightly depending on your chosen tool:
+The general process (for SteamTools) is simple, though it varies slightly depending on your chosen tool:
 
 1.  Download the `.zip` file for the game you want from the **LuaMani** website or this repository.
 2.  Unzip the .zip file you downloaded.
